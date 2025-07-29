@@ -2,7 +2,7 @@
 
 ## 📺 Demo Video
 Check out the complete walkthrough and live demo of the bot here:  
-[🔗 Watch Demo on Google Drive](https://drive.google.com/your-demo-link-here](https://drive.google.com/file/d/1r_ItbKR86_7ShSrMl1u8Pv9h8flbq6F3/view)
+[🔗 Watch Demo on Google Drive](https://drive.google.com/file/d/1r_ItbKR86_7ShSrMl1u8Pv9h8flbq6F3/view)
 
 ## Overview
 This project is a comprehensive crypto risk management and automated hedging system with multi-exchange support, real-time analytics, and a Telegram bot interface. It is designed for professional portfolio management, risk monitoring, and compliance reporting.
